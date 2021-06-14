@@ -1,2 +1,7 @@
 # my-ret2libc
-my ret2libc solve for a simple challenge 
+My ret2libc Solve For a Simple Challenge 
+
+	- solve  -> binary + exploit
+	- source -> challenge source code
+
+
